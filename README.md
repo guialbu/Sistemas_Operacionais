@@ -4,4 +4,4 @@ Projeto da disciplina de Sistemas Operacionais do curso de Engenharia de Telecom
 
 O projeto consiste no desenvolvimento de um aplicativo que emula um sistema operacional no espaço de usuário do Linux.
 
-Obs: dentro da pasta há uma workspace do eclipse.
+Obs: dentro da pasta há um workspace do eclipse.
